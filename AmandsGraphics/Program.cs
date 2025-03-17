@@ -19,7 +19,7 @@ using System.Threading.Tasks;
 
 namespace AmandsGraphics
 {
-    [BepInPlugin("com.Amanda.Graphics", "Graphics", "1.6.5")]
+    [BepInPlugin("com.Amanda.Graphics", "Graphics", "1.6.6.0")]
     public class AmandsGraphicsPlugin : BaseUnityPlugin
     {
         public static GameObject Hook;
